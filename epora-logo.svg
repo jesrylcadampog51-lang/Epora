@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" role="img" aria-labelledby="title">
+  <title id="title">EPORA Virtual Care Support</title>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M91 39c0 34 20 57 42 78 19 18 21 41 7 63-17 26-30 47-27 69 4 31 30 49 62 47 31-2 53-19 65-48" stroke="#17324D" stroke-width="12"/>
+    <path d="M224 17c0 43-16 68-43 92-26 23-49 42-60 70-12 30-7 58 16 75 24 18 57 17 80 0 11-8 19-19 24-32" stroke="#4FA7A0" stroke-width="12"/>
+    <path d="M149 98c16-16 41-16 56 1" stroke="#17324D" stroke-width="12"/>
+    <path d="M155 140c-3-18 17-28 29-10 13-18 34-8 29 10-3 13-21 25-29 31-9-6-27-18-29-31Z" stroke="#4FA7A0" stroke-width="10"/>
+    <path d="M132 202c11 19 29 29 50 29 22 0 41-11 53-30" stroke="#17324D" stroke-width="12"/>
+  </g>
+  <circle cx="148" cy="66" r="17" fill="#17324D"/>
+  <text x="292" y="159" fill="#17324D" font-family="Manrope, Arial, sans-serif" font-size="112" font-weight="800" letter-spacing="1">EPORA</text>
+  <text x="298" y="211" fill="#17324D" font-family="Manrope, Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="7">VIRTUAL CARE SUPPORT</text>
+</svg>
